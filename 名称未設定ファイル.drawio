@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-03-03T23:35:05.277Z" agent="5.0 (Windows)" etag="hBv28XCj5is2ZwDSySr3" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-03T23:37:13.529Z" agent="5.0 (Windows)" etag="VEqk95B9hEhd5LyDFRDj" version="20.5.3" type="github">
   <diagram name="Page-1" id="74b105a0-9070-1c63-61bc-23e55f88626e">
     <mxGraphModel dx="2370" dy="1365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="10b056a9c633e61c-30" value="ディレクトリ構成案" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+        <mxCell id="10b056a9c633e61c-30" value="ディレクトリ（クレート）構成案" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="80" y="40" width="1590" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y8ofXW4XnCx3dUe6ZQK3-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y8ofXW4XnCx3dUe6ZQK3-2" target="Y8ofXW4XnCx3dUe6ZQK3-5">
